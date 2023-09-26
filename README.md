@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jonas
-- 👀 I’m interested in many things
 - 🌱 I’m currently learning HTML, CSS, JavaScript, MySQL & Digital Technology
 
 <!---
